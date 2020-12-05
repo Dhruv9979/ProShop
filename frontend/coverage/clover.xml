@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1607049779235" clover="3.2.0">
+  <project timestamp="1607049779235" name="All files">
+    <metrics statements="16" coveredstatements="16" conditionals="24" coveredconditionals="23" methods="8" coveredmethods="8" elements="48" coveredelements="47" complexity="0" loc="16" ncloc="16" packages="6" files="6" classes="6"/>
+    <package name="components.Footer">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Footer.component.jsx" path="X:\React-Udemy\ProShop\frontend\src\components\Footer\Footer.component.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Header">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Header.component.jsx" path="X:\React-Udemy\ProShop\frontend\src\components\Header\Header.component.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Product">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Product.component.jsx" path="X:\React-Udemy\ProShop\frontend\src\components\Product\Product.component.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Rating">
+      <metrics statements="4" coveredstatements="4" conditionals="22" coveredconditionals="21" methods="1" coveredmethods="1"/>
+      <file name="Rating.component.jsx" path="X:\React-Udemy\ProShop\frontend\src\components\Rating\Rating.component.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="22" coveredconditionals="21" methods="1" coveredmethods="1"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="20" type="stmt"/>
+        <line num="72" count="4" type="stmt"/>
+        <line num="76" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.HomePage">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="HomePage.component.jsx" path="X:\React-Udemy\ProShop\frontend\src\pages\HomePage\HomePage.component.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="12" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.ProductPage">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="ProductPage.component.jsx" path="X:\React-Udemy\ProShop\frontend\src\pages\ProductPage\ProductPage.component.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

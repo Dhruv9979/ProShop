@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductPage component should render ProductPage 1`] = `ShallowWrapper {}`;
