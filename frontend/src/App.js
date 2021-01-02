@@ -5,6 +5,7 @@ import Header from './components/./Header/Header.component';
 import Footer from './components/./Footer/Footer.component';
 import HomePage from './pages/HomePage/HomePage.component';
 import ProductPage from './pages//ProductPage/ProductPage.component';
+import CartPage from './pages/CartPage/CartPage.component';
 
 const App = () => {
     return (
@@ -14,6 +15,7 @@ const App = () => {
                 <Container>
                     <Route path="/" component={HomePage} exact />
                     <Route path="/product/:id" component={ProductPage} />
+                    <Route path="/cart/:id?" component={CartPage} /> {/* The ? makes the id optional */}
                 </Container>
             </main>
             <Footer />
